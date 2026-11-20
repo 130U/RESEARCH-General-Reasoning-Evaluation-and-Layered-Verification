@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+type: software
+title: "General Reasoning Evaluation and Layered Verification"
+version: "V_202611"
+date-released: 2026-11-19
+abstract: "What should entitle a model's reasoning to be accepted? The article, its PDF, full derivations, a test set with known verdicts and code that recomputes every figure."
+authors:
+  - family-names: Ouyang
+    given-names: "Letao (Theodore)"
+repository-code: "https://github.com/130U/RESEARCH-General-Reasoning-Evaluation-and-Layered-Verification"
+url: "https://www.theodoreoy.com/experience/general-reasoning-evaluation-and-layered-verification/"
+keywords:
+  - "LLM evaluation"
+  - "reasoning"
+  - "process supervision"
+  - "reward models"
+  - "verification"
+  - "exact arithmetic"
+preferred-citation:
+  type: article
+  title: "General Reasoning Evaluation and Layered Verification"
+  authors:
+    - family-names: Ouyang
+      given-names: "Letao (Theodore)"
+  year: 2026
+  url: "https://www.theodoreoy.com/experience/general-reasoning-evaluation-and-layered-verification/"
+  institution:
+    name: "Duke University"
